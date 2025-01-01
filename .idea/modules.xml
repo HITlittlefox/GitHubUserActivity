@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Githubuserapi.iml" filepath="$PROJECT_DIR$/.idea/modules/Githubuserapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DogLibrary/Githubuserapi.DogLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/DogLibrary/Githubuserapi.DogLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DogLibrary/Githubuserapi.DogLibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DogLibrary/Githubuserapi.DogLibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DogLibrary/Githubuserapi.DogLibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DogLibrary/Githubuserapi.DogLibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DogLibrary/Githubuserapi.DogLibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DogLibrary/Githubuserapi.DogLibrary.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Githubuserapi.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Githubuserapi.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Githubuserapi.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Githubuserapi.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Githubuserapi.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Githubuserapi.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Githubuserapi.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Githubuserapi.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
